@@ -84,4 +84,3 @@ Terminal 1 ::
     ............................
     lrs_server_1    | 2020/02/12 17:09:09 Got stats from cluster `http_service` node `0022a319e1e2` - cluster_name:"local_service" upstream_locality_stats:<locality:<> total_successful_requests:3 total_issued_requests:3 > load_report_interval:<seconds:2 nanos:2458000 >
     lrs_server_1    | 2020/02/12 17:09:09 Got stats from cluster `http_service` node `2417806c9d9a` - cluster_name:"local_service" upstream_locality_stats:<locality:<> total_successful_requests:9 total_issued_requests:9 > load_report_interval:<seconds:2 nanos:6487000 >
-
